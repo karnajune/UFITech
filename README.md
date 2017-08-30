@@ -1,2 +1,0 @@
-# UFITech
-UFI Tech Solution
